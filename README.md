@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center;">
+<div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Godot_logo.svg" width="300"> <br>
 </div>
 
@@ -6,7 +6,7 @@
 
 GODOT IS A FREE, OPEN-SOURCE ENGINE THAT ALLOWS DEVELOPERS TO CREATE GAMES FOR VARIOUS PLATFORMS SUCH AS PC, CONSOLES, AND MOBILE DEVICES. 
 
-<div style="display: flex; justify-content: center; margin:0;padding:0;">
+<div style="margin:0; padding:0;" align="center">
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PAGE-3d8fcc)](https://godotengine.org/)
 [![GitHub Repo stars](https://img.shields.io/badge/-SOCIAL-282828)](https://twitter.com/godotengine)
@@ -15,7 +15,7 @@ GODOT IS A FREE, OPEN-SOURCE ENGINE THAT ALLOWS DEVELOPERS TO CREATE GAMES FOR V
 
 </div>
 
-<div style="display: flex; justify-content: center; margin:0;padding:0;">
+<div align="center" margin:0;padding:0;">
 
 [![GitHub Repo stars](https://img.shields.io/badge/-DOCS-9e9e9e)](https://docs.godotengine.org/en/stable/)
 [![GitHub Repo stars](https://img.shields.io/badge/-UPDATES-ffcd00)](https://youtu.be/wHXJPaj6988?si=-bDy0gMy2CCU5L_Q)
