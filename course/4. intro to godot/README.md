@@ -9,7 +9,7 @@ To get started with Godot, follow these steps to install the engine on your syst
 
 2. Download the latest stable version.
 
-3. Depending on your operating system, choose the appropriate version (Windows, macOS, Linux) and download the installer.
+3. Depending on your operating system, choose the appropriate version and download the installer.
 
 4. Follow the installer's instructions to complete the installation.
 
