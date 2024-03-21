@@ -31,3 +31,15 @@ WE WILL BE LEARNING HOW TO WORK AS A TEAM AND MAKE A GAME USING GDSCRIPT.
 2. [Teamwork / Roles](important/2.%20team/README.md)
 3. [Different Game Engines](important/3.%20game%20engines/README.md)
 4. [Introduction to GODOT](important/4.%20intro%20to%20godot/README.md)
+
+## Sources
+
+1. [Your First 2D GAME From Zero with GODOT 4! "Vampire Survivor Style"](https://youtu.be/GwCiGixlqiU?feature=shared)
+
+2. [Heart Platformer - Godot 4 Tutorial Series](https://www.youtube.com/watch?v=M8-JVjtJlIQ&list=PL9FzW-m48fn0i9GYBoTY-SI3yOBZjH1kJ)
+
+3. [How to Make an Top-Down RPG in Godot 4](https://www.youtube.com/watch?v=pBoXqW4RykE&list=PL3cGrGHvkwn0zoGLoGorwvGj6dHCjLaGd)
+
+3. [The 7 Greatest TIPS for Any Godot Developer](https://youtu.be/7aNTmYRjVT8?feature=shared)
+
+4. [Technique for Creating Beautiful Level Design](https://youtu.be/qNACGP98b6c?feature=shared)
