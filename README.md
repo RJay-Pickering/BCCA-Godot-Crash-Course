@@ -25,9 +25,9 @@ WE WILL BE LEARNING HOW TO WORK AS A TEAM AND MAKE A GAME USING GDSCRIPT.
 
 ![](https://i.imgur.com/waxVImv.png)
 
-## WHAT YOU WILL LEARN:
+## IMPORTANT:
 
-1. [Indie Game Development](course/1.%20indie%20game%20development/README.md)
-2. [Teamwork / Roles](course/2.%20team/README.md)
-3. [Different Game Engines](course/3.%20game%20engines/README.md)
-4. [Introduction to GODOT](course/4.%20intro%20to%20godot/README.md)
+1. [Indie Game Development](important/1.%20indie%20game%20development/README.md)
+2. [Teamwork / Roles](important/2.%20team/README.md)
+3. [Different Game Engines](important/3.%20game%20engines/README.md)
+4. [Introduction to GODOT](important/4.%20intro%20to%20godot/README.md)
