@@ -26,20 +26,32 @@ WE WILL BE LEARNING HOW TO WORK AS A TEAM AND MAKE A GAME USING GDSCRIPT.
 ![](https://i.imgur.com/waxVImv.png)
 
 ## IMPORTANT:
+Important notes for General Godot/Game Development.
 
 1. [Indie Game Development](important/1.%20indie%20game%20development/README.md)
 2. [Teamwork / Roles](important/2.%20team/README.md)
 3. [Different Game Engines](important/3.%20game%20engines/README.md)
 4. [Introduction to GODOT](important/4.%20intro%20to%20godot/README.md)
+5. [Before you start](important/5.%20before%20you%20start/README.md)
 
-## Sources
+## Walkthrough
+This is a personal walkthrough used to show step-by-step of Godot and how to master it.
 
-1. [Your First 2D GAME From Zero with GODOT 4! "Vampire Survivor Style"](https://youtu.be/GwCiGixlqiU?feature=shared)
+[insert name of vid here](link/to/vid)
 
-2. [Heart Platformer - Godot 4 Tutorial Series](https://www.youtube.com/watch?v=M8-JVjtJlIQ&list=PL9FzW-m48fn0i9GYBoTY-SI3yOBZjH1kJ)
+## Other Resources
+Resources from some popular Developers, Designers, and Artists
 
-3. [How to Make an Top-Down RPG in Godot 4](https://www.youtube.com/watch?v=pBoXqW4RykE&list=PL3cGrGHvkwn0zoGLoGorwvGj6dHCjLaGd)
+1. GDQuest: [Your First 2D GAME From Zero with GODOT 4! "Vampire Survivor Style"](https://youtu.be/GwCiGixlqiU?feature=shared)
+2. Heartbeast: [Heart Platformer - Godot 4 Tutorial Series](https://www.youtube.com/watch?v=M8-JVjtJlIQ&list=PL9FzW-m48fn0i9GYBoTY-SI3yOBZjH1kJ)
+3. DevWorm: [How to Make an Top-Down RPG in Godot 4](https://www.youtube.com/watch?v=pBoXqW4RykE&list=PL3cGrGHvkwn0zoGLoGorwvGj6dHCjLaGd)
+4. DevWorm: [The 7 Greatest TIPS for Any Godot Developer](https://youtu.be/7aNTmYRjVT8?feature=shared)
+5. Thomas Brush: [How To Make A Game Alone (In 2024)](https://youtu.be/8wYTDjQxxa8?feature=shared)
+6. Pixel Architect: [Technique for Creating Beautiful Level Design](https://youtu.be/qNACGP98b6c?feature=shared)
+7. Extra History: [So You Want to be a Level Designer](https://youtu.be/pNvUWHquSHc?feature=shared)
+8. GoldenEvolution: [How I made an Excellent Platformer](https://youtu.be/Oet5jqoX14E?feature=shared)
+9. Thomas Brush: [5 Steps To Gorgeous Game Art](https://youtu.be/gTZT8GE5928?feature=shared)
+10. Nonsensical 2D: [Hand drawn is easier than pixel art](https://youtu.be/LMmZnCsE6HM?feature=shared)
 
-3. [The 7 Greatest TIPS for Any Godot Developer](https://youtu.be/7aNTmYRjVT8?feature=shared)
 
-4. [Technique for Creating Beautiful Level Design](https://youtu.be/qNACGP98b6c?feature=shared)
+<p style="font-size: 0.35em;">Images in the folder called "files" are from <a href="https://giphy.com/">GIPHY</a> and the character from the GIF`s is called "Godot" (GOD-oh, gə-DOH, or go-doh) from the game "Phoenix Wright: Ace Attorney – Trials and Tribulations" by Capcom. PLEASE SUPPORT THE OFFICIAL RELEASE AND DO NOT SUE ME...</p>
