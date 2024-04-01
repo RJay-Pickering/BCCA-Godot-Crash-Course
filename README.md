@@ -37,7 +37,7 @@ Important notes for General Godot/Game Development.
 ## Walkthrough
 This is a personal walkthrough used to show step-by-step of Godot and how to master it.
 
-[insert name of vid here](link/to/vid)
+[GODOT 4 CRASH COURSE](https://www.youtube.com/playlist?list=PLnWh3HVek9eSRyiWYZCVjpcqMMEp9Kf_P)
 
 ## Other Resources
 Resources from some popular Developers, Designers, and Artists
@@ -53,5 +53,3 @@ Resources from some popular Developers, Designers, and Artists
 9. Thomas Brush: [5 Steps To Gorgeous Game Art](https://youtu.be/gTZT8GE5928?feature=shared)
 10. Nonsensical 2D: [Hand drawn is easier than pixel art](https://youtu.be/LMmZnCsE6HM?feature=shared)
 
-
-<p style="font-size: 0.35em;">Images in the folder called "files" are from <a href="https://giphy.com/">GIPHY</a> and the character from the GIF`s is called "Godot" (GOD-oh, gə-DOH, or go-doh) from the game "Phoenix Wright: Ace Attorney – Trials and Tribulations" by Capcom. PLEASE SUPPORT THE OFFICIAL RELEASE AND DO NOT SUE ME...</p>
