@@ -34,6 +34,12 @@ Important notes for General Godot/Game Development.
 4. [Introduction to GODOT](important/4.%20intro%20to%20godot/README.md)
 5. [Before you start](important/5.%20before%20you%20start/README.md)
 
+## Assignments:
+Tasks for our journey into indie game development.
+
+1. [Our First Game](assignments/1.%20our%20first%20game/README.md)
+2. [Game Jam Simulation](assignments/2.%20game%20jam%20simulation/README.md)
+
 ## Resources
 Resources from some popular Developers, Designers, and Artists.
 
