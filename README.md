@@ -35,7 +35,7 @@ Important notes for General Godot/Game Development.
 5. [Before you start](important/5.%20before%20you%20start/README.md)
 
 ## Resources
-Resources from some popular Developers, Designers, and Artists
+Resources from some popular Developers, Designers, and Artists.
 
 1. GDQuest: [Your First 2D GAME From Zero with GODOT 4! "Vampire Survivor Style"](https://youtu.be/GwCiGixlqiU?feature=shared)
 2. Heartbeast: [Heart Platformer - Godot 4 Tutorial Series](https://www.youtube.com/watch?v=M8-JVjtJlIQ&list=PL9FzW-m48fn0i9GYBoTY-SI3yOBZjH1kJ)
