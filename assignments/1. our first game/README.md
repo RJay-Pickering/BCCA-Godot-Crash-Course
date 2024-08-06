@@ -1,8 +1,10 @@
 # Our First Game
 
-Your task for this assignment is to build a small game by yourself using the assets pack provided to you. Your game can be about anything that you would like it to be as long as the content is free of adult content, drug use, defamation, or bullying.
+To most beginner game developers, It is always hard finding the right assets for their game or to make the assets for their game. So you have been provided some assets for you to get started on making a game.
 
-To clarify, **NO adult content, drug use, drug promotion, defamation, or bullying.** Breaking this rule by adding any of them to the game will **remove you from gaming club** and may result in handbook actions such as **write ups** or **removal from Base Camp**. 
+Your task for this assignment is to build a small game by yourself using the assets folder provided to you. Your game can be about anything that you would like it to be as long as the content is free of adult content, drug use, defamation, or bullying. You will be given 10 weeks to complete this project.
+
+To clarify, **NO adult content, drug use, drug promotion, defamation, or bullying.** Breaking this rule by adding any of them to the game or documentation will **remove you from gaming club** and may result in handbook actions such as **write ups** or **removal from Base Camp**. 
 
 ## Dictionary:
 1. **Adult Content**: Refers to material that is intended for an adult audience and typically includes sexually explicit or suggestive themes.
@@ -12,6 +14,7 @@ To clarify, **NO adult content, drug use, drug promotion, defamation, or bullyin
 5. **Bullying**: A repeated aggressive behavior that involves an imbalance of power or strength. It can take various forms, including physical, verbal, social, and cyberbullying.
 
 ## Rubric:
+- [ ] Done within 10 weeks.
 - [ ] Must be functional and playable.
 - [ ] At least one playable level is available.
 - [ ] Must use ONLY the asset pack provided for your art.
