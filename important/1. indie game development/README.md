@@ -1,34 +1,33 @@
 # Indie Game Development
 
-### **Indie Developers V.S. AAA Developers**
-Indie game developers operate on a smaller scale, often consisting of passionate individuals or small teams with limited budgets. They prioritize creative freedom, allowing them to experiment and explore unconventional ideas. AAA studios are large, well-established companies with substantial resources. They focus on commercial success, creating visually impressive games while adhering to established formulas. Longer development cycles and global market impact characterize AAA studios.
+## **Indie Developers V.S. AAA Developers**
+Indie game developers often consisting of a person or small teams with limited budgets.
+
+AAA studios are large companies with a huge team and a bigger amount of resources than Indie developers.
 
 
-## Key Concepts for a Indie Developer
+## Project Life Cycle
 
 ### 1. **Initial Start**
-   - **Dream Big**: Start with a vision. What kind of game do you want to create? A pixelated adventure, a quirky puzzle, or an emotional narrative?
-   - **Scope Wisely**: Indies often work with limited resources. Define your scope realistically. What can you achieve with your team size, time, and budget?
+   - Ask yourself, "What kind of game do you want to create?" "Should I create a dating simulator, an action rpg, or a open-ended gameplay?"
+   - Indie developers only have limited resources. Define your scope of your project realistically. What can you achieve with your team size, time limit, and budget?
 
-### 2. **Prototyping and Iteration**
-   - **Build a Sandbox**: Create a small prototype—a playground where ideas collide. Test mechanics, controls, and core gameplay.
-   - **Feedback Loop**: Gather feedback from friends, fellow developers, or players. Iterate based on insights.
+### 2. **Prototyping**
+   - Create a small prototype—a playground where you can test mechanics, controls, and core gameplay.
+   - Ask for feedback from friends, other developers, or your family. Use their feedback to help improve your game.
 
-### 3. **Art and Sound on a Budget**
-   - **Pixel Magic**: Pixel art is indie-friendly. It's nostalgic and expressive.
-   - **Ambience**: Craft simple, catchy tunes. Use free sound libraries for ambiance.
+### 3. **Art and Sound**
+   - Pixel art is indie-friendly. It's nostalgic, expressive, and is cheaper to make or buy.
+   - You can use free/paid sounds/tunes from marketplaces or create your own sounds/tunes for the ambiance of your game.
 
-### 4. **Code with Efficiency**
-   - **Lean Codebase**: Optimize code. Reuse where possible. Keep it clean.
-   - **Engines**: Leverage existing tools like Unity, Godot, or Unreal Engine.
+### 4. **Clean Codes and Indie-Friendly Engines**
+   - Keep your code clean and sloppy free.
+   - Most popular engines among indie developers are Unity, Unreal Engine, Godot, GameMaker Studio, Construct, RPG Maker, Defold, Phaser, and CryEngine.
 
 ### 5. **Marketing and Community**
-   - **Build Hype**: Tease your game early. Share concept art, dev logs, and behind-the-scenes glimpses.
-   - **Social Media**: Engage with players. Twitter, Instagram, Discord, Youtube, and itch.io are indie havens.
+   - Tease your game early and share concept art, developer logs, and behind-the-scenes of your game on social media.
+   - Engage with players using platforms like Twitter, Instagram, Youtube, itch.io, and any social media platform you prefer.
 
-### 6. **Release and Post-Launch**
-   - **Launch Day**: Celebrate! Release on platforms like Steam, itch.io, or mobile app stores.
-   - **Listen and Patch**: Players find bugs. Listen, fix, and improve.
-
-## Conclusion
-Indie game development is about passion, persistence, and creating something uniquely yours. So, gather your creativity, embrace constraints, and let your game come to life!
+### 6. **Release Day**
+   - Release your game on platforms like Steam, itch.io, or any mobile app stores.
+   - Receive feedback by engaging with your community.

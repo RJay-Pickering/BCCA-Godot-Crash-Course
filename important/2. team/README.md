@@ -1,37 +1,30 @@
 # Teamwork
 
-### **What does it mean to be apart of a team?**
-Being a part of a team means collaborating with others toward a common goal. It involves working together, sharing responsibilities, and supporting one another. A team is more than just a group of individuals; it’s a collective effort where each member contributes their unique skills and perspectives. Effective teamwork fosters communication, trust, and synergy, leading to greater achievements than what any individual could accomplish alone. Whether in sports, work, or creative endeavors, being part of a team means being interconnected and striving for shared success.
+## **What does it mean to be apart of a team?**
+Being a part of a team means working with others toward a common goal. It involves working together, sharing responsibilities, and supporting one another. A team is more than just a group of individuals; it’s a collective effort where each member contributes their unique skills and perspectives to the project. Effective teamwork requires communication, trust, and working together, which can lead to finishing the project quickly and effectively.
 
 
-## Key Concepts
+## Roles of a Team
 ### 1. **Game Developers**:
-   - **Role**: Game developers are the heart of your team. They write the necessary lines of code, build the core game loop, optimize gameplay, and handle beta testing and debugging. Depending on your game's size, you might need multiple game developers.
-   - **Responsibilities**: Codebase development, feature implementation, and ensuring a polished, bug-free game experience.
+   Game developers write the necessary lines of code to build the core game loop, optimize the gameplay, and handle testing and debugging feedback.
 
 ### 2. **Server Engineers**:
-   - **Role**: Server engineers construct the game's back-end. They handle cross-client communication, server-authoritative features, and social interactions between players. Whether your game is single-player or multiplayer determines the urgency of this role.
-   - **Importance**: Critical for online games.
+   Server engineers makes the game's code to allow online activities for your game. They need to handle cross-client communication, server-authoritative features, and social interactions between players (developers also do this too).
 
 ### 3. **Testers**:
-   - **Role**: Ideally, everyone on the team should be a tester. However, designating someone as the quality assurance lead ensures a bug-free game experience.
-   - **Responsibilities**: Rigorous testing, bug identification, and reporting.
+   Ideally, everyone on the team should be a tester. However, designating someone to debug, beta test, and report issues from the code can lead to a bug-free game.
 
 ### 4. **Designers**:
-   - **Role**: Designers supervise game design decisions impacting players, the core loop, and meta-game elements. They maintain the Game Design Document (GDD) and ensure consistency.
-   - **Responsibilities**: Game mechanics, level design, user experience, and aesthetics.
+   Designers designs the overall gameplay experience, mechanics, and levels of the game. They are responsible for how the game runs and how players interact with it.
 
-### 5. **Writers**:
-   - **Role**: Writers create compelling narratives, dialogues, and lore. Their work enriches the game world and engages players emotionally.
-   - **Responsibilities**: Storytelling, character development, and world-building.
+### 5. **Artist**:
+   Artists focuses primarily on creating the art of the game, such as the characters, environments, and animations. Their work is more about the aesthetic and artistic aspects.
 
-### 6. **Sound Designers**:
-   - **Role**: Sound designers enhance the game's audio experience. They create music, sound effects, and ambient sounds.
-   - **Responsibilities**: Audio assets, immersion, and emotional impact.
+### 6. **Writers**:
+   Writers create the narrative, character development, world-building aspect, dialogues, and story behind the game. Their work tells the game's world story and engages the players.
 
-### 7. **Producers**:
-   - **Role**: Producers manage the project, ensuring deadlines, budgets, and resources align. They facilitate communication and keep the team on track.
-   - **Responsibilities**: Scheduling, coordination, and project oversight.
+### 7. **Sound Designers**:
+   Sound designers enhance the game's experience just as much as the artists and designers do. They create the game's music, sound effects, and ambient noises.
 
-## Conclusion
-Being part of a team involves collaboration, shared responsibilities, and mutual support. Effective teamwork leads to greater achievements than individual efforts. In the context of indie game development, key roles include game developers, server engineers, testers, designers, writers, sound designers, and producers.
+### 8. **Producers**:
+   Producers manages the project, deadlines, budgets, and resources. They keep communication among the team members, address challenges, and keeps the team on track.
