@@ -14,7 +14,7 @@ WE WILL BE LEARNING HOW TO WORK AS A TEAM AND MAKE A GAME USING GDSCRIPT.
 
 </div>
 
-<div align="center" margin:0;padding:0;">
+<div align="center" style="margin:0;padding:0;">
 
 [![GitHub Repo stars](https://img.shields.io/badge/-YOUTUBE-FF0000)](https://www.youtube.com/@GodotEngineOfficial)
 [![GitHub Repo stars](https://img.shields.io/badge/-DOCS-9e9e9e)](https://docs.godotengine.org/en/stable/)
