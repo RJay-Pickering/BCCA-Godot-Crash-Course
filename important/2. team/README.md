@@ -1,3 +1,5 @@
+[![GitHub Repo stars](https://img.shields.io/badge/-GO%20BACK-3d8fcc)](../../README.md#important)
+
 # Teamwork
 
 ## **What does it mean to be apart of a team?**
@@ -9,7 +11,7 @@ Being a part of a team means working with others toward a common goal. It involv
    Game developers write the necessary lines of code to build the core game loop, optimize the gameplay, and handle testing and debugging feedback.
 
 ### 2. **Server Engineers**:
-   Server engineers makes the game's code to allow online activities for your game. They need to handle cross-client communication, server-authoritative features, and social interactions between players (developers also do this too).
+   Server engineers makes the game's code to allow online activities for your game. They need to handle cross-client communication, server-authoritative features, and social interactions between players (developers also does this job too).
 
 ### 3. **Testers**:
    Ideally, everyone on the team should be a tester. However, designating someone to debug, beta test, and report issues from the code can lead to a bug-free game.

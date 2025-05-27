@@ -1,3 +1,5 @@
+[![GitHub Repo stars](https://img.shields.io/badge/-GO%20BACK-3d8fcc)](../../README.md#assignments)
+
 # Game Jam Simulation
 
 Your task for this assignment is to participate in a game jam. You will use one of the most popular place to find games, game assets, and game jams, called [itch.io](https://itch.io/). 

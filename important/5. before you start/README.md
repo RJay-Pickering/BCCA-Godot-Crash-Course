@@ -1,3 +1,5 @@
+[![GitHub Repo stars](https://img.shields.io/badge/-GO%20BACK-3d8fcc)](../../README.md#important)
+
 # Before you start
 Before you start on the journey of **Godot game development**, you should lay a solid foundation. Here are some steps to consider:
 

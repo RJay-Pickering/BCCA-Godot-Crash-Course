@@ -1,3 +1,5 @@
+[![GitHub Repo stars](https://img.shields.io/badge/-GO%20BACK-3d8fcc)](../../README.md#assignments)
+
 # Our First Game
 
 To most beginner game developers, It is always hard finding the right assets for their game or to make the assets for their game. So you have been provided some assets for you to get started on making a game.

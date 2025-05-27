@@ -1,3 +1,5 @@
+[![GitHub Repo stars](https://img.shields.io/badge/-GO%20BACK-3d8fcc)](../../README.md#important)
+
 # Indie Game Development
 
 ## **Indie Developers V.S. AAA Developers**

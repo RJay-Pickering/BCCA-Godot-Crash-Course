@@ -1,3 +1,5 @@
+[![GitHub Repo stars](https://img.shields.io/badge/-GO%20BACK-3d8fcc)](../../README.md#important)
+
 # What is Godot?
 
 Godot is a adaptable, open-source game development engine that is suitable for creating both 2D and 3D games. It is known for its ease of use, and powerful features such as the 2D physics engines and animations. Godot uses a cutscene system to organize elements of the game, making it easy to learn and use.

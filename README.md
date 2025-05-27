@@ -12,13 +12,9 @@ WE WILL BE LEARNING HOW TO WORK AS A TEAM AND MAKE A GAME USING GDSCRIPT.
 [![GitHub Repo stars](https://img.shields.io/badge/-SOCIAL-282828)](https://twitter.com/godotengine)
 [![GitHub Repo stars](https://img.shields.io/badge/-SUPPORT-f96854)](https://fund.godotengine.org/)
 
-</div>
-
-<div align="center" style="margin:0;padding:0;">
-
 [![GitHub Repo stars](https://img.shields.io/badge/-YOUTUBE-FF0000)](https://www.youtube.com/@GodotEngineOfficial)
 [![GitHub Repo stars](https://img.shields.io/badge/-DOCS-9e9e9e)](https://docs.godotengine.org/en/stable/)
-[![GitHub Repo stars](https://img.shields.io/badge/-UPDATES-ffcd00)](https://godotengine.org/releases/4.4/)
+[![GitHub Repo stars](https://img.shields.io/badge/-FEATURES-ffcd00)](https://godotengine.org/features/)
 
 </div>
 
