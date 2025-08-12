@@ -31,3 +31,5 @@ To clarify, **NO adult content, drug use, drug promotion, defamation, or bullyin
 - [ ] Must have an end goal for your game.
     - The end goal needs to be different from your classmates.
 - [ ] No adult content, drug use, drug promotion, defamation, or bullying.
+
+Do not shy away from looking for tutorials. Watching tutorials for this assignments is heavily encouraged.

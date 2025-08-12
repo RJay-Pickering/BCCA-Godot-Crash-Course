@@ -2,7 +2,7 @@
 
 # Game Jam Simulation
 
-Your task for this assignment is to participate in a game jam. You will use one of the most popular place to find games, game assets, and game jams, called [itch.io](https://itch.io/). 
+Your task for this assignment is to participate in a game jam together. You will use one of the most popular place to find games, game assets, and game jams, called [itch.io](https://itch.io/).
 
 To join a game jam, you will need to create a account on itch. Follow [this link](https://itch.io/register) to create an itch account. Now, you can go to the [game jam](https://itch.io/jams) section to look at all of the available game jams. 
 
