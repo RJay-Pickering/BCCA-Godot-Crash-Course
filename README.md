@@ -39,7 +39,7 @@ Tasks for the journey into game development.
 ## Resources (Development)
 Resources from some popular tutorials.
 
-1. GDQuest: [Your First 2D GAME From Zero with GODOT 4! "Vampire Survivor Style"](https://youtu.be/GwCiGixlqiU?feature=shared){:target="_blank" rel="noopener"}
+1. GDQuest: [Your First 2D GAME From Zero with GODOT 4! "Vampire Survivor Style"](https://youtu.be/GwCiGixlqiU?feature=shared)
 2. Brackeys: [How to make a Video Game - Godot Beginner Tutorial](https://youtu.be/LOhfqjmasi0?si=wk811GE89WUV9M1x)
 3. DevWorm: [How to Make Survival Game in Godot](https://youtube.com/playlist?list=PL3cGrGHvkwn2NOT1LSwf5d2XZmlc5Bjsn&feature=shared)
 4. sepTN: [GDScript Cheat-sheet](https://dev.to/godot/gdscript-cheatsheet-5ghe)
