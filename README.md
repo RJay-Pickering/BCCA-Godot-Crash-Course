@@ -33,8 +33,8 @@ Important notes for General Godot/Game Development.
 Tasks for the journey into game development.
 
 1. [Tutorial Game](assignments/1.%20farming%20game%20tutorial/README.md)
-2. [Our First Game](assignments/2.%20our%20first%20game/README.md)
-3. [Game Jam](assignments/3.%20game%20jam/README.md)
+<!-- 2. [Our First Game](assignments/2.%20our%20first%20game/README.md)
+3. [Game Jam](assignments/3.%20game%20jam/README.md) -->
 
 ## Resources (Development)
 Resources from some popular tutorials.
