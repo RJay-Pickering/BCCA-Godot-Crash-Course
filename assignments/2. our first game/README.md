@@ -4,7 +4,7 @@
 
 To most beginner game developers, It is always hard finding the right assets for their game or to make the assets for their game. So you have been provided some assets for you to get started on making a game.
 
-Your task for this assignment is to build a small, **simple** sidescrolling game by yourself using the assets folder provided to you. Your game can be about anything that you would like it to be as long as your projects are original. The content also needs to be free of adult content, drug use, defamation, or bullying. You will be given 10 weeks to complete this project.
+Your task for this assignment is to build a small, **simple** sidescrolling game by yourself using the assets folder provided to you. Your game can be about anything that you would like it to be as long as your projects are original. The content also needs to be free of adult content, drug use, defamation, or bullying. You will be given 10 weeks (Due: 12/18/25) to complete this project.
 
 To clarify, **NO adult content, drug use, drug promotion, defamation, or bullying.** Breaking this rule, by adding any of them to the game or documentation, will **remove you from gaming club** immediately and may result in handbook actions such as **write ups** or **removal from Base Camp**. 
 
@@ -17,7 +17,7 @@ To clarify, **NO adult content, drug use, drug promotion, defamation, or bullyin
 6. **Bullying**: A repeated aggressive behavior that involves an imbalance of power or strength. It can take various forms, including physical, verbal, social, and cyber-bullying.
 
 ## Rubric:
-- [ ] Done within 10 weeks.
+- [ ] Done within 10 weeks (12/18/25).
 - [ ] Its a sidescrolling game.
 - [ ] Must be functional and playable. (NO ERRORS OR CRASHES)
 - [ ] At least one playable level is available.
@@ -25,11 +25,11 @@ To clarify, **NO adult content, drug use, drug promotion, defamation, or bullyin
 - [ ] Must use ONLY the asset pack provided for your art.
     - You do not have to use the entire assets folder.
     - You may add audio to your project, but it needs to put in a audio folder. Audio is not required.
-- [ ] Must have menus like a title, pause, game over, and a you win screen.
+- [ ] Must have menus like a title, pause, game over, and victory screen.
 - [ ] Must have instructions on how to play the game.
     - Either throughout the gameplay, or as a setting in the pause menu.
 - [ ] Must have an end goal for your game.
     - The end goal needs to be different from your classmates.
 - [ ] No adult content, drug use, drug promotion, defamation, or bullying.
 
-Do not shy away from looking for tutorials. Watching tutorials for this assignments is heavily encouraged.
+Do not shy away from looking for tutorials. Watching tutorials for this assignments is heavily suggested. Especially if the last assignment didn't help that well.
